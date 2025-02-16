@@ -1,43 +1,31 @@
-# ⚡ Electricity Billing System
-
-## 📋 Overview
-
-The **Electricity Billing System** is a modern solution designed to simplify and automate the process of managing electricity billing and energy consumption tracking. It provides an intuitive interface for utility companies and customers to handle billing, payments, and usage analytics effectively.
-
-## ✨ Features
-
-- **User Management**: Add, edit, and manage customer profiles and service connections.
-- **Billing Automation**: Automatically generate accurate bills based on electricity usage.
-- **Payment Integration**: Support for secure online payments via gateways like Stripe or PayPal.
-- **Energy Consumption Tracking**: Monitor and visualize electricity usage patterns.
-- **Reporting & Analytics**: Generate insightful reports on billing, revenue, and consumption trends.
-- **Notifications**: Send bill payment reminders and service updates via email or SMS.
+Here's a refined version of your project description that aligns with your actual tech stack:  
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Electricity Billing System  
 
-- **Frontend**: React.js / Angular for a responsive user interface
-- **Backend**: Node.js / Django for API and business logic
-- **Database**: PostgreSQL / MySQL for secure data storage
-- **Authentication**: JSON Web Tokens (JWT) or OAuth for user login and security
-- **Payment Gateway**: Stripe / PayPal integration for online transactions
+## 📋 Overview  
+The **Electricity Billing System** is a Java-based desktop application designed to simplify and automate electricity billing and energy consumption tracking. It provides an intuitive graphical user interface (GUI) for utility companies and customers to manage billing, payments, and energy usage efficiently.  
 
----
+## ✨ Features  
+🔹 **User Management** – Add, edit, and manage customer profiles and service connections.  
+🔹 **Billing Automation** – Generate accurate electricity bills based on usage.  
+🔹 **Payment Tracking** – Maintain records of customer payments and dues.  
+🔹 **Energy Consumption Tracking** – Monitor electricity usage history.  
+🔹 **Reporting & Analytics** – Generate reports on billing, payments, and usage trends.  
+🔹 **Notifications** – Send bill payment reminders and service updates.  
 
-## 🚀 Getting Started
+## 🛠️ Tech Stack  
+🔹 **Frontend** – Java Swing (GUI for a user-friendly desktop application)  
+🔹 **Backend** – Java (using ActionListener for event handling)  
+🔹 **Database** – MySQL (for secure data storage and retrieval)  
 
-### Prerequisites
+## 🚀 Getting Started  
 
-Before you begin, ensure you have the following installed:
+### Prerequisites  
+Before running the application, ensure you have:  
+✅ **Java Development Kit (JDK)** installed  
+✅ **MySQL Database Server** set up  
+✅ **JDBC Connector** for database connectivity  
 
-- Node.js (v14 or later)
-- npm or yarn
-- PostgreSQL or MySQL (for database)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/RonakHirawat/electricity-billing-system.git
-   cd electricity-billing-system
+Would you like me to add any additional details, such as **installation steps, database schema, or a sample screenshot**? Let me know how I can improve it further! 🚀
