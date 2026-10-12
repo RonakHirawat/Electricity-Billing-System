@@ -28,4 +28,4 @@ Before running the application, ensure you have:
 ✅ **MySQL Database Server** set up  
 ✅ **JDBC Connector** for database connectivity  
 
-Would you like me to add any additional details, such as **installation steps, database schema, or a sample screenshot**? Let me know how I can improve it further! 🚀
+
